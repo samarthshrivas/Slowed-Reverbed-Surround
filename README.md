@@ -55,6 +55,5 @@ slowedreverb('input.wav', 'output.wav')
 
 _For more examples, please refer to the [Examples](https://github.com/samarthshrivas/Slowed-Reverbed/tree/main/example)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
