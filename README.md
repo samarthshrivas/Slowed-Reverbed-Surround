@@ -1,12 +1,10 @@
 
-  <h3 align="center">Slowed+Reverb+Surround </h3>
+  <h1 align="center">Slowed+Reverb+Surround </h1>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a try to automaically convert simple songs to lofi type songs
 
