@@ -21,7 +21,7 @@ Python
 ## Getting Started
 
 ## Docker 
-Docker is also available [HRER]()
+Docker is also available [HERE]()
 
 ### Installation
 
