@@ -35,8 +35,9 @@ def slowedreverb(audio, output):
     # Export audio
     print('Exporting audio...')
     sf.write('tmp2.wav', effected, sample_rate)
-    sp.call(f'sox "tmp2.wav" "{output}" delay 0.02', shell=True)
-    sp.call('del tmp.wav tmp2.wav',shell=True)
+    sp.call(f'sox "tmp2.wav" out.wav delay 0.02', shell=True)
+    sp.call(f'ffmpeg -i out.wav "{output}"')
+    sp.call('del tmp.wav tmp2.wav out.wav',shell=True)
 
 
 if "__main__" == __name__:
