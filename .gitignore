@@ -2,3 +2,12 @@ venv/
 music/
 main.py
 movie yt/
+BOT/
+liveprocess/
+D:\Projects\GitHub\Slowed-Reverbed\utils\music.py
+*.wav
+*.webm
+*.part
+__pycache__
+utils\__pycache__
+webapp

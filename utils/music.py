@@ -6,7 +6,7 @@ import numpy as np
 
 
 def slowedreverb(audio, output, room_size = 0.75, damping = 0.5, wet_level = 0.08, dry_level = 0.2, delay = 2, slowfactor = 0.08):
-    filename = audio
+
     if '.wav' not in audio:
         print('Audio needs to be .wav! Converting...')
         sp.call(f'ffmpeg -i "{audio}" tmp.wav', shell = True)
@@ -35,10 +35,10 @@ def slowedreverb(audio, output, room_size = 0.75, damping = 0.5, wet_level = 0.0
 
     #write outfile
     sf.write(output, combined_signal, sample_rate)
-    print(f"Converted {filename}")
+    print(f"Converted.")
 
 # if "__main__" == __name__:
-#     slowedreverb('kali.wav', 'test1.wav')
+    # slowedreverb('kali.wav', 'test1.wav')
 
 
 
