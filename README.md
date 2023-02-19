@@ -28,9 +28,6 @@ Python
 <!-- GETTING STARTED -->
 ## Getting Started
 
-## Docker 
-Docker is also available [HERE]()
-
 ### Installation
 
 The following libraries are tools are required for this project to run:
