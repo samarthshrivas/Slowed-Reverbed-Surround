@@ -6,7 +6,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a try to automaically convert simple songs to lofi type songs
+This is a try to automaically convert songs to lofi version of that song
+
+
+
+
+https://user-images.githubusercontent.com/59404247/219949725-a60a5289-ea28-4b33-8d54-7638a41e939a.mov
+
+
+https://user-images.githubusercontent.com/59404247/219949718-1c496dac-10ae-4cc4-8c74-e3af9b7c430a.mov
 
 
 
