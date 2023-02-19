@@ -32,16 +32,15 @@ Python
 
 The following libraries are tools are required for this project to run:
 
-Make sure ffmpeg and sox is installed on device:
+Make sure ffmpeg is installed on device:
 ####Linux : 
 `
-sudo apt install ffmpeg sox
+sudo apt install ffmpeg
 `
 
 #### Windows : 
 
 ffmpeg : https://ffmpeg.org/download.html
-sox : https://sourceforge.net/projects/sox/
 
 #### Python libraries (Required)
 
