@@ -3,7 +3,6 @@
 
 <!-- ![image](https://user-images.githubusercontent.com/59404247/219950202-1f3e4eaa-403b-4b42-becd-e8430ae04462.png) -->
 
-<img src="[drawing.jpg](https://user-images.githubusercontent.com/59404247/219950202-1f3e4eaa-403b-4b42-becd-e8430ae04462.png)" alt="drawing" style="width:200px;"/>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
