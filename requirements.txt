@@ -1,3 +1,2 @@
 pedalboard==0.6.3
 soundfile==0.11.0
-sox==1.4.1
